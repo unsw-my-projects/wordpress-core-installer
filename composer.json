@@ -16,7 +16,7 @@
 	],
 	"autoload": {
 		"psr-0": {
-			"johnpbloch\\Composer\\": "src/"
+			"unsw-my-projects\\Composer\\": "src/"
 		}
 	},
 	"autoload-dev": {
@@ -25,7 +25,7 @@
 		}
 	},
 	"extra": {
-		"class": "johnpbloch\\Composer\\WordPressCorePlugin"
+		"class": "unsw-my-projects\\Composer\\WordPressCorePlugin"
 	},
 	"require": {
 		"composer-plugin-api": "^1.0 || ^2.0",
